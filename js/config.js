@@ -154,7 +154,7 @@ const API_SITES = {
     },
     lsb: {
         api: 'https://apilsbzy1.com',
-        name: 'lsb资源',
+        name: 'lsb资源1',
         adult: true
     },
     huangcang: {
